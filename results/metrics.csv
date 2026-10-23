@@ -1,0 +1,8 @@
+model,accuracy,macro_f1,roc_auc_ovr
+Logistic Regression,0.35,0.3464,0.4972
+Random Forest,0.3367,0.3341,0.5111
+XGBoost,0.3167,0.316,0.4991
+LightGBM,0.3317,0.332,0.5191
+DNN,0.3317,0.3295,0.4839
+LSTM,0.3217,0.3076,0.4817
+GRU,0.3117,0.2437,0.4862
