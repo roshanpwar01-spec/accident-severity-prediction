@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+results/*.png
+results/*.csv
+# keep your raw data out of git if it is private:
+# data/*.xlsx
